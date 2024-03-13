@@ -1,0 +1,11 @@
+Add Orbit
+Add Goldilock
+Add Rocky
+Add Gas
+Add Asteroid
+Add Comet
+Add Helioflare
+Add Heliowind
+Add Heliopause
+Add Cosmicray
+Add Gammarayburst

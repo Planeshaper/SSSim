@@ -1,0 +1,11 @@
++10% H Generation
++1 Goldilock Channel
++1 Rock Channel
++1 Gas Channel
++1 Ice Channel
++1 Ion Channel
++1 Radiation Channel
++1 Assault
+-10% Damage Taken
++10% Channel
++33% Assault
